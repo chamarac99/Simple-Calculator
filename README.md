@@ -5,8 +5,10 @@ The Simple Calculator is a Python script for basic arithmetic operations. Input 
 
 How to Use
 Clone the Repository:
+
 git clone https:/chamarac99/github.com//Simple-Calculator.git
 cd Simple-Calculator
+
 Run the Calculator:
 
 python SimpleCalculator.py
